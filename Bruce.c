@@ -43,7 +43,7 @@ int main () {
     long double Combination_Count;
 
 
-    puts("\n\nBrute-Force| Password Strength Calculator | V.0.0\nNote: Maximum password length is \"30 characters\" any extra characters will be ignored.\n");
+    puts("\n\nBruce| Password Strength Calculator | V.0.1\n**Note: Maximum password length is \"30 characters\" any extra characters will be ignored.\n");
 
     printf("\n\n------------------------------\n1-[Calculate Combinations]\n\n2-[Calculate Crack Time]\n\n3-[Calculate All & Print]\n\n4-[EXIT]\n------------------------------\n\n");
     scanf(" %c",&choice);
